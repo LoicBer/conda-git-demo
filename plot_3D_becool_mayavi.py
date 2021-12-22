@@ -26,6 +26,9 @@ import lecture_BCL
 
 
 def auto_sphere(image_file):
+    '''
+    Tracer le globe terrestre
+    '''
     # create a figure window (and scene)
     fig = mlab.figure(size=(600, 600))
 
