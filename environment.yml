@@ -11,4 +11,4 @@ dependencies:
   - mayavi
   - xarray
   - netCDF4
-  
+  - opencv
