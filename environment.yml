@@ -1,0 +1,14 @@
+name: mayavi_env2
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - numpy
+  - scipy
+  - matplotlib
+  - pyqt=5
+  - vtk=9.0.3
+  - mayavi
+  - xarray
+  - netCDF4
+  
